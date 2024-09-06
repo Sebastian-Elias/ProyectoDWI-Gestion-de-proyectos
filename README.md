@@ -1,5 +1,4 @@
-# Nombre del Proyecto
-Proyecto DWI
+# Proyecto DWI
 
 ## Descripción
 
